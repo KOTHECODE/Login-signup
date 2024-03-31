@@ -1,4 +1,3 @@
-/*
 var a = document.getElementById("loginbtn");
 var b = document.getElementById("registerbtn");
 var x = document.getElementById("login");
@@ -21,4 +20,3 @@ function register() {
     x.style.opacity = "0px";
     y.style.opacity = "1px";
 }
-*/
